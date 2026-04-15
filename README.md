@@ -35,14 +35,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-devS3B&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-devS3B&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-devS3B&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-devS3B&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-devS3B&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 ---
 
