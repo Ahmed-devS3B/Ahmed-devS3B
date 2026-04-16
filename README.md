@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ahmed Ibrahim</h1>
+طب انا عندي 88 كونتربيوشن ازاي حاسب 84 بس؟<h1 align="center">Hi 👋 I'm Ahmed Ibrahim</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&width=500&lines=Big+Data+Engineer;React+%26+Next.js+Developer;Turning+Data+into+Insights;Building+Clean+UIs" />
 </h3>
@@ -57,7 +57,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-devS3B&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-devS3B&theme=tokyonight" />
 </p>
 
 <p align="center">
